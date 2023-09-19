@@ -1,0 +1,11 @@
+*{
+    font-family: poppins;
+    padding: 5px;
+    background-color: beige;
+    
+}
+.container{
+    width: 80%;
+    
+    align-items: center;
+}
